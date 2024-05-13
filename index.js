@@ -8,6 +8,7 @@ let sum = Symbol("Myau");
 
 let passenger = {
     passengerName: "Pavel",
+    passengerSurname: "Ivanov",
     age: 33,
     country: "Portugal",
     birthday: "03.04.1991",
